@@ -1,0 +1,23 @@
+{
+  "name": "httpproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songgeng87/httpproxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/songgeng87/httpproxy/issues"
+  },
+  "homepage": "https://github.com/songgeng87/httpproxy#readme"
+}
